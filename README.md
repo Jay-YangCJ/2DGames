@@ -1,1 +1,1 @@
-# 2DGames
+# Simple 2D Snake Games
